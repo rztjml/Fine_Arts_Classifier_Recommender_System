@@ -1,4 +1,4 @@
-# AI Art Gallery Companion
+# Fine Arts Classifier and Recommender System
 
 ## Core Features
 
